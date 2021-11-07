@@ -728,8 +728,8 @@
 }
 
 .reaction-1hd86g:hover {
-  background-color: transparent;
-  border-color: transparent;
+  background-color: var(--reaction-emoji-hover-background-color);
+  border-color: var(--reaction-emoji-hover-border-color);
 }
 
 .stageSection-3mAD8V {
@@ -762,7 +762,7 @@ html {
 }
 
 .reaction-1hd86g {
-  border: var(--reaction-emoji-border-color);
+  border: transparent;
 }
 
 .folderIconWrapper-1_bOZe {
