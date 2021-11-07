@@ -293,9 +293,8 @@
   opacity: 0 !important;
 }
 
-.item-2hkk8m:not([style*="height: 8px"]) {
-  border-color: transparent;
-  background-color: transparent;
+.item-2hkk8m:[style*="height: 40px"] {
+ background-color: #901E50;
 }
 
 .pill-1m5BUr {
