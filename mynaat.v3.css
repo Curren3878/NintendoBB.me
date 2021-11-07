@@ -672,7 +672,7 @@
   .listItem-GuPuDH
   .pill-1Z5PKm
   .item-2hkk8m {
-  opacity: 1 !important;
+  opacity: 0 !important;
 }
 
 .tree-2wKJdG:focus {
@@ -815,7 +815,7 @@ html {
 }
 
 .pill-1Z5PKm .item-2hkk8m {
-  opacity: 1 !important;
+  opacity: 0 !important;
 }
 
 .theme-dark .autocomplete-1vrmpx {
