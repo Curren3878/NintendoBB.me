@@ -273,7 +273,7 @@
 .item-2hkk8m {
   animation: var(--unread-server-animation) 3s linear infinite;
   border: 2px solid var(--main-theme-color);
-  background-color: #582060;
+  background: transparent;
   border-radius: 100%;
   display: block;
   margin-left: 0;
@@ -293,8 +293,9 @@
   opacity: 0 !important;
 }
 
-.item-2hkk8m:[style*="height: 8px"] {
- background-color: #901E50;
+.item-2hkk8m:not([style*="height: 8px"]) {
+  border-color: transparent;
+  background-color: transparent;
 }
 
 .pill-1m5BUr {
