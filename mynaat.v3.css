@@ -290,7 +290,7 @@
   .scroller-1Bvpku
   > div.listItem-GuPuDH:nth-child(1)
   .item-2hkk8m {
-  opacity: 0 !important;
+  opacity: 1 !important;
 }
 
 .item-2hkk8m:not([style*="height: 8px"]) {
@@ -816,7 +816,7 @@ html {
 }
 
 .pill-1Z5PKm .item-2hkk8m {
-  opacity: 0 !important;
+  opacity: 1 !important;
 }
 
 .theme-dark .autocomplete-1vrmpx {
