@@ -290,10 +290,10 @@
   .scroller-1Bvpku
   > div.listItem-GuPuDH:nth-child(1)
   .item-2hkk8m {
-  opacity: 1 !important;
+  opacity: 0 !important;
 }
 
-.item-2hkk8m:[style*="height: 40px"] {
+.item-2hkk8m:[style*="height: 8px"] {
  background-color: #901E50;
 }
 
