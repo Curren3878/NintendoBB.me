@@ -729,7 +729,7 @@
 
 .reaction-1hd86g:hover {
   background-color: var(--reaction-emoji-hover-background-color);
-  border-color: var(--reaction-emoji-hover-border-color);
+  border-color: transparent;
 }
 
 .stageSection-3mAD8V {
