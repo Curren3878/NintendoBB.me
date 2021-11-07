@@ -273,7 +273,7 @@
 .item-2hkk8m {
   animation: var(--unread-server-animation) 3s linear infinite;
   border: 2px solid var(--main-theme-color);
-  background: transparent;
+  background-color: #582060;
   border-radius: 100%;
   display: block;
   margin-left: 0;
@@ -290,7 +290,7 @@
   .scroller-1Bvpku
   > div.listItem-GuPuDH:nth-child(1)
   .item-2hkk8m {
-  opacity: 0 !important;
+  opacity: 1 !important;
 }
 
 .item-2hkk8m:[style*="height: 8px"] {
@@ -672,7 +672,7 @@
   .listItem-GuPuDH
   .pill-1Z5PKm
   .item-2hkk8m {
-  opacity: 0 !important;
+  opacity: 1 !important;
 }
 
 .tree-2wKJdG:focus {
@@ -815,7 +815,7 @@ html {
 }
 
 .pill-1Z5PKm .item-2hkk8m {
-  opacity: 0 !important;
+  opacity: 1 !important;
 }
 
 .theme-dark .autocomplete-1vrmpx {
