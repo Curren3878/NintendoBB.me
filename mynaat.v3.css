@@ -725,7 +725,7 @@
 }
 
 .reaction-1hd86g {
-  background: transparent;
+  background: var(--reaction-emoji-background-color);
 }
 
 .reaction-1hd86g:hover {
@@ -763,7 +763,7 @@ html {
 }
 
 .reaction-1hd86g {
-  border: transparent;
+  border: var(--reaction-emoji-border-color);
 }
 
 .folderIconWrapper-1_bOZe {
