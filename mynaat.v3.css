@@ -724,11 +724,11 @@
 }
 
 .reaction-1hd86g {
-  background: var(--reaction-emoji-background-color);
+  background: transparent;
 }
 
 .reaction-1hd86g:hover {
-  background-color: var(--reaction-emoji-hover-background-color);
+  background-color: transparent;
   border-color: transparent;
 }
 
