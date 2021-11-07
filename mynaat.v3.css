@@ -290,12 +290,13 @@
   .scroller-1Bvpku
   > div.listItem-GuPuDH:nth-child(1)
   .item-2hkk8m {
-  opacity: 0 !important;
+  opacity: 1 ;
 }
 
-.item-2hkk8m:not([style*="height: 8px"]) {
-  border-color: transparent;
-  background-color: transparent;
+.item-2hkk8m:[style*="height: 40px;"] {
+  width: 17px !important;
+  height: 17px !important;
+  background-color: #8da0e0;
 }
 
 .pill-1m5BUr {
@@ -673,7 +674,7 @@
   .listItem-GuPuDH
   .pill-1Z5PKm
   .item-2hkk8m {
-  opacity: 0 !important;
+  opacity: 1 !important;
 }
 
 .tree-2wKJdG:focus {
@@ -816,7 +817,7 @@ html {
 }
 
 .pill-1Z5PKm .item-2hkk8m {
-  opacity: 0 !important;
+  opacity: 1 !important;
 }
 
 .theme-dark .autocomplete-1vrmpx {
