@@ -230,8 +230,8 @@
 }
 
 .wrapper-sa6paO {
-  height: 54px;
-  width: 54px;
+  height: 48px;
+  width: 8px;
 }
 
 .pill-31IEus {
@@ -892,4 +892,10 @@ html {
 
 .container-2wlB3z {
   background: transparent;
+}
+
+.pill-ZqtR4i {
+    position: absolute;
+    left: 0;
+    top: 0;
 }
