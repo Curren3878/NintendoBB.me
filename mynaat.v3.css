@@ -292,7 +292,7 @@
   opacity: 1 ;
 }
 
-.item-2hkk8m:[style*="height: 40px;"] {
+.item-2hkk8m:not([style*="height: 8px"]) {
   width: 17px !important;
   height: 17px !important;
   background-color: #8da0e0;
